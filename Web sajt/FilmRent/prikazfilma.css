@@ -1,0 +1,60 @@
+.proba{
+    background: linear-gradient(270deg, rgba(40, 45, 46, 0.9) 0%, rgba(38, 38, 39, 0.4) 55%, rgba(62, 58, 65, 0.1) 100%);
+    position: absolute;
+    width: 80%;
+    top: 0px;
+    border-radius: 12px;
+    margin: auto;
+    z-index: -1;
+}
+
+.film{
+    padding: 50px;
+}
+
+.opis1{
+    display: flex;
+
+}
+
+.btnNav{
+    background-color: gray;
+    border-color: white;
+    width: 60%
+}
+
+.btn{
+    background-color: gray;
+    border-color: white;
+    width: 80%
+    
+}
+.btnNav:hover{
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+.slika {
+    margin-top: 30px;
+    height: 600px;
+    width: 335px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#footer{
+    margin: auto;
+    margin-top: 100px;
+    width: 20%;
+}
+.imdb {
+    height: 20px;
+    width: 35px;
+    margin-left: 10px;
+}

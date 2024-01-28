@@ -1,0 +1,134 @@
+body {
+    background-color: #363536;
+    color: black;
+}
+
+.btnNav {
+    background-color: gray;
+    border-color: white;
+    width: 60%
+}
+
+.btnNav:hover {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+.stranica {
+    display: grid;
+    grid-template-columns: 66% 33%;
+    background-color: white;
+    margin-top: 5%;
+    width: 60%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 20px 20px 20px black;
+    border-radius: 10px;
+}
+
+.levideo {
+    background-color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 7.5%;
+    padding-bottom: 7.5%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-template-rows: max-content;
+    grid-gap: 30px;
+    height: 504px;
+    overflow-y: auto;
+    align-items: start;
+
+}
+
+.film {
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+.desnideo {
+    background-color: aliceblue;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 15%;
+    padding-bottom: 15%;
+
+}
+
+.brstavki {
+    font: bold;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.slika {
+    height: 200px;
+    width: 115px;
+    border: 2px solid black;
+    display: block;
+}
+
+
+
+.promoKod {
+    display: flex;
+    justify-content: space-between;
+}
+
+.uzvicnik {
+    width: 28px;
+    height: 28px;
+    padding-bottom: 5px;
+}
+
+/* .uzvicnik:hover .uzvicnik-tooltip {
+    opacity: 1;
+} */
+
+.uzvicnik-tooltip {
+    margin-top: 2%;
+    margin-left: 15%;
+    opacity: 0;
+    position: absolute;
+    z-index: 2;
+    background-color: rgb(235, 245, 245);
+    border-radius: 10px;
+    font-style: italic;
+
+}
+
+.ukloni {
+    justify-self: end;
+    width: 40px;
+    height: 40px;
+    background-image: url(imgs/trash-can.png);
+    background-size: cover;
+    cursor: pointer;
+    border: 0;
+    background-color: transparent;
+}
+
+#footer {
+    margin: auto;
+    margin-top: 100px;
+    width: 20%;
+}
+
+
+@media (max-width: 1500px) {
+    .film {
+        grid-template-columns: 1fr;
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+    }
+}
