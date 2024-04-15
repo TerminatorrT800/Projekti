@@ -1,0 +1,123 @@
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.exe
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.deps.json
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.runtimeconfig.json
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.pdb
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.GenerateResource.cache
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.AssemblyInfoInputs.cache
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.AssemblyInfo.cs
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.CoreCompileInputs.cache
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\refint\EkspertniSistem.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.pdb
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.genruntimeconfig.cache
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\ref\EkspertniSistem.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistemBaza.db
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.AssemblyReference.cache
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.CopyComplete
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Properties.Resources.resources
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Home.resources
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Uvod.resources
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistemBaza.db
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.exe
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.deps.json
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.runtimeconfig.json
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.pdb
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.AssemblyReference.cache
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Home.resources
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Properties.Resources.resources
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Uvod.resources
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.GenerateResource.cache
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.AssemblyInfoInputs.cache
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.AssemblyInfo.cs
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.CoreCompileInputs.cache
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.CopyComplete
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\refint\EkspertniSistem.dll
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.pdb
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.genruntimeconfig.cache
+C:\Users\elite\Desktop\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\ref\EkspertniSistem.dll
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.FakultetIliAkademija.resources
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Lokacija.resources
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Doktor.resources
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Master.resources
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Cena.resources
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.brojGod.resources
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Result.resources
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.smer.resources
+C:\Programiranje\EkspertniSistem\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.VrsteSmerova.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistemBaza.db
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.exe
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.deps.json
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.runtimeconfig.json
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\EkspertniSistem.pdb
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.AssemblyReference.cache
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.brojGod.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Cena.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Doktor.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.FakultetIliAkademija.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Home.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Lokacija.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Master.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Properties.Resources.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Result.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.smer.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.Uvod.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.VrsteSmerova.resources
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.GenerateResource.cache
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.AssemblyInfoInputs.cache
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.AssemblyInfo.cs
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.CoreCompileInputs.cache
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.csproj.CopyComplete
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\refint\EkspertniSistem.dll
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.pdb
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\EkspertniSistem.genruntimeconfig.cache
+C:\Programiranje\EkspertniSistem - final\EkspertniSistem\obj\Debug\net6.0-windows\ref\EkspertniSistem.dll
